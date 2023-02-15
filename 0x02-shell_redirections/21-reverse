@@ -1,2 +1,2 @@
 #!/bin/nash
-rev echo "Reverse"
+echo "Reverse" | rev
